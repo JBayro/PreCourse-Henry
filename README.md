@@ -1,2 +1,1 @@
-# PreCourse-Henry
-Este es un repository de prueba 
+Este proyecto es una prueba 
